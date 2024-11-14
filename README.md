@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Pandas Beginner</h1>
 
-<p id="description">Beginner-friendly questionnaire comprising 25 concise questions each designed to elicit insightful responses while maintaining accessibility and simplicity for newcomers.</p>
+<p id="description">Beginner-friendly questionnaire comprising 25 concise questions each designed to elicit insightful responses while maintaining accessibility and simplicity for newcomers . </p>
 
   
   
